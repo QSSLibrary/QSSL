@@ -1,3 +1,6 @@
 [submodule "Core"]
 	path = Core
 	url = https://github.com/QSSLibrary/Core.git
+[submodule "CelestialObjects"]
+	path = CelestialObjects
+	url = https://github.com/QSSLibrary/CelestialObjects.git
